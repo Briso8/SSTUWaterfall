@@ -1,8 +1,12 @@
 SSTU Waterfall Configs
 ======================
-Хотели SSTU с Waterfall, но его не было ? А теперь есть !
-1. Удалите файл RealPlumes-Engines по пути SSTU/ModIntegration/RealPlume
-2. Скачайте и установите в папку GameData конфиги для двигателей.
+Hello. 
+Do you play cS STU and would you like to have a chic exhaust that Waterfall provides? 
+Then these configs are for you.
 ---
-Играйте !
+Installation. 
+---
+Just move the SSTUWaterfall folder to your GameData folder and enjoy the new exhausts on your engines!
 ========
+
+
