@@ -1,8 +1,6 @@
 SSTU Waterfall Configs
 ======================
-Hello. 
-Do you play cS STU and would you like to have a chic exhaust that Waterfall provides? 
-Then these configs are for you.
+Hello. Are you playing with SSTU and would you like to have a chic exhaust that Waterfall provides ? Then these configs are for you.
 ---
 Installation. 
 ======================
